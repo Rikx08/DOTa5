@@ -1,0 +1,15 @@
+{
+  "username": "Rikx",
+  "hotkey": "ctrl+alt+x",
+  "port": 47990,
+  "window_ms": 4000,
+  "peers": [],
+  "extra_broadcast": [],
+  "sound_send": "send.wav",
+  "sound_match": "match.wav",
+  "sound_no_match": "no_match.wav",
+  "animation_seconds": 1.2,
+  "font_family": "Segoe UI Emoji",
+  "cooldown_seconds": 60,
+  "text_color": "#8E0039"
+}
