@@ -161,3 +161,4 @@ pyinstaller --onefile --noconsole --icon=icon.ico --name "Dota5" main.py
 - **Друг не получает мои "пять"** — впиши его IP в `peers`, проверь firewall
   и что порт одинаковый у всех.
 - **Игра сворачивается** — см. раздел про Exclusive Fullscreen выше.
+- **Перезапустите ПК**
